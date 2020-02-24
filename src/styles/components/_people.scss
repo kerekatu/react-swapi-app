@@ -1,0 +1,19 @@
+.people {
+  padding: 5rem 10rem;
+  animation: load 0.4s;
+
+  &__item {
+    margin-bottom: 5rem;
+    background-color: #ade1ff;
+    padding: 2rem;
+    border-radius: 0.4rem;
+  }
+
+  &__heading {
+    font-size: 4.2rem;
+  }
+
+  &__text {
+    font-size: 2rem;
+  }
+}
